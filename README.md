@@ -5,4 +5,4 @@ I am a 16 year old software developert who loves ☕ javascript and php 🐘.
 I am currently still in high school but i am trying to climb the ladder. My hobbies are coding and playing minecraft.
 
 # [Github Stats]
-https://github-readme-stats.vercel.app/api?username=YasinJS&show_icons=true
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YasinJS&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
