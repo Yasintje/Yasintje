@@ -3,3 +3,4 @@ I am a 16 year old software developert who loves ☕ javascript and php 🐘. I 
 
 # [Github Stats]
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=YasinJS&show_icons=true&theme=dark)](https://github.com/YasinJS)
+[![Readme Card](https://github-readme-stats-lake-ten.vercel.app/api/top-langs/?username=YasinJS&theme=dark)](https://github.com/YasinJS)
